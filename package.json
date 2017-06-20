@@ -1,0 +1,29 @@
+{
+  "name": "onesignal-notification-sender",
+  "version": "1.0.0",
+  "description": "A minimal Electron application used to send notification using OneSignal",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ludovicoloreti/1SignNotifySender",
+  "keywords": [
+    "Electron",
+    "OneSignal",
+    "AngularJS",
+    "ngRoute",
+    "Notification",
+    "Sender",
+    "WebSdk",
+    "SDK"
+  ],
+  "author": "ludovicoloreti,",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludovicoloreti/1SignNotifySender/issues"
+  },
+  "homepage": "https://github.com/ludovicoloreti/1SignNotifySender#readme",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
