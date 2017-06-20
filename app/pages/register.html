@@ -1,0 +1,30 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <i class="fa fa-gear fa-fw"></i> <b>Settings</b>
+      </div>
+      <div class="panel-body">
+        <div class="form-group">
+          <label for="exampleInputEmail1">APP ID</label>
+          <input type="text" class="form-control" placeholder="APP ID" name="appid" ng-model="data.appid">
+        </div>
+        <div class="form-group">
+          <label for="exampleInputPassword1">API KEY</label>
+          <input type="text" class="form-control" placeholder="API KEY" name="apikey" ng-model="data.apikey">
+        </div>
+        <button type="submit" class="btn btn-success btn-block" ng-click="salvaDati(data)">Salva!</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row col-md-12" ng-if="ai != null1">
+  <ul>
+    <li>
+      APP ID -> {{ai}}
+    </li>
+    <li>
+      API KEY -> {{ak}}
+    </li>
+  </ul>
+</div>
