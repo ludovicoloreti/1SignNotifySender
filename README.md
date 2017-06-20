@@ -8,12 +8,13 @@ A minimal Electron application used to send notification using OneSignal
                 git clone https://github.com/ludovicoloreti/1SignNotifySender.git 
 
 
-(2) Install:
+(2) Select:
 
                 cd 1SignNotifySender 
 		
-		npm install
+(3) Install
 
+                npm install
 
 (3) Run!
 
@@ -21,4 +22,9 @@ A minimal Electron application used to send notification using OneSignal
 
 
 (4) Set APP ID and API KEY. (login on onesignal.com and search for them! blahblah)
-	...start using it!
+	
+(5)...start using it!
+
+# Others
+You will see lot of unusable staff. Dont watch it, it's for feautures!
+Thanks to lot of gits!
