@@ -5,12 +5,14 @@ A minimal Electron application used to send notification using OneSignal
 
 (1) Download:
 
-                git clone https://github.com/ludovicoloreti/1SignNotifySender.git
+                git clone https://github.com/ludovicoloreti/1SignNotifySender.git 
 
 
 (2) Install:
 
-                npm install
+                cd 1SignNotifySender 
+		
+		npm install
 
 
 (3) Run!
